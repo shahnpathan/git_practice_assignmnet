@@ -8,4 +8,4 @@ for(leti=num.length-1;i>=0;i--){
         console.log("palindrome")
     }else{
         console.log("not a palindrome")
-    }
+    
